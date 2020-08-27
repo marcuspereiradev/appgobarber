@@ -11,9 +11,9 @@ You may clone this repository.
   git clone git@github.com:marcuspereiradev/appgobarber.git
 ```
 
-<p>Have an Android emulator running (quickest way to get started), or a device connected.</p>
-<p>I usually use [Android Studio](https://developer.android.com/studio) emulator.</p>
-<p>[React Native Environment](https://react-native.rocketseat.dev/) with [Android Studio](https://developer.android.com/studio)</p>
+Have an Android emulator running (quickest way to get started), or a device connected. </br>
+I usually use [Android Studio](https://developer.android.com/studio) emulator. </br>
+[React Native Environment](https://react-native.rocketseat.dev/) with [Android Studio](https://developer.android.com/studio)
 
 <p align="center">
   <img src = "./docs/runningAndroidStudio.gif" width=800>
