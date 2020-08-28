@@ -1,9 +1,24 @@
 <p align="center">
   <img src = "./docs/logo_with_bg.png" width=450>
 </p>
+
 <p align="center">Managing appointments in barbershops builting React Native Typescript and Styled Components.</p>
 
+## Features
+
+<p align="center">
+  <img src = "./docs/Login.png" width=300>
+</p>
+
 ## Installation
+
+Have an Android emulator running (quickest way to get started), or a device connected. </br>
+I usually use [Android Studio](https://developer.android.com/studio) emulator. </br>
+[React Native Environment with Android Studio](https://react-native.rocketseat.dev/)
+
+<p align="center">
+  <img src = "./docs/appGobarberRunningAndroidStudio.gif" width=800>
+</p>
 
 You may clone this repository.
 
@@ -11,29 +26,43 @@ You may clone this repository.
   git clone git@github.com:marcuspereiradev/appgobarber.git
 ```
 
-Have an Android emulator running (quickest way to get started), or a device connected. </br>
-I usually use [Android Studio](https://developer.android.com/studio) emulator. </br>
-[React Native Environment](https://react-native.rocketseat.dev/) with [Android Studio](https://developer.android.com/studio)
-
 <p align="center">
-  <img src = "./docs/runningAndroidStudio.gif" width=800>
+  <img src = "./docs/appGobarberGitClone.gif" width=800>
 </p>
 
 Inside the created directory run the scripts in order to execute the application.
 
 ```
   // Install the dependencies
-  npx react-native run-android
+  yarn install
 ```
+
+<p align="center">
+  <img src = "./docs/appGobarberYarnInstall.gif" width=800>
+</p>
 
 ```
   // Start the application
   yarn start
 ```
 
+<p align="center">
+  <img src = "./docs/appGobarberYarnStart.gif" width=800>
+</p>
+
+```
+  // Compiling the application
+  npx react-native run-android
+```
+
+<p align="center">
+  <img src = "./docs/appGobarberNPXRunAndroid.gif" width=800>
+</p>
+
 ## License
+
 This project is under MIT license. See the archive [LICENSE](./LICENSE) to more details.
 
 ## Authors
 
-|  [Marcus Pereira](https://github.com/marcuspereiradev)   |
+| [Marcus Pereira](https://github.com/marcuspereiradev) |
