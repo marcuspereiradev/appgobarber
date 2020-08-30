@@ -7,7 +7,7 @@
 ## Features
 
 <p align="center">
-  <img src = "./docs/appGobarberSignInSignUp.gif" width=300>
+  <img src = "./docs/appGobarberSignInSignUp.gif" width=400>
 </p>
 
 ## Installation
